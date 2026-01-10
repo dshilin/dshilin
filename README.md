@@ -1,4 +1,9 @@
-## Hi there 👋
+<img width="1536" height="1024" alt="Dmitry Shilin DS/ML engineer" src="https://github.com/user-attachments/assets/ca203b3d-fd04-4dc3-89be-2d4585e9ba9e" />
+
+## Hi there,  👋 
+
+I’m passionate about machine learning and neural networks. On this profile, you can find my projects and experiments related to artificial intelligence.
+
 
 <!--
 **dshilin/dshilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
