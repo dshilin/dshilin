@@ -11,6 +11,9 @@ I’m passionate about machine learning and neural networks. On this profile, yo
   <a href="https://www.kaggle.com/dshilin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=kaggle&logo=kaggle&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo"  />
   </a>
+  <a href="https://github.com/dshilin" target="_blank">
+    <img src="https://img.shields.io/badge/github-blue?style=for-the-badge&logo=github" height="25" alt="github logo"  />
+  </a>
 </div>
 
 <!-- <div align="center">
