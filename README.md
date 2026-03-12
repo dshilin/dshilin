@@ -2,7 +2,7 @@
 
 ## Hi there,  👋 
 
-I’m passionate about machine learning and neural networks. On this profile, you can find my projects and experiments related to artificial intelligence.
+On this profile, you can find my projects and experiments related to artificial intelligence.
 
 <div align="center">
   <a href="https://t.me/autotest_er" target="_blank">
